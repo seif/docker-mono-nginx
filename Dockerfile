@@ -1,4 +1,4 @@
-FROM mono:5.0
+FROM mono:5.4
 
 MAINTAINER Seif Attar <iam@seifattar.net>
 
